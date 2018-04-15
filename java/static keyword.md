@@ -54,3 +54,4 @@ following prperties :
 	- only an inner (nested) class can be defined as static.
 	- while using inner static class, reference to enclosing class is not needed.
 	- can only access static members of enclosing class.
+	- can access even private static members of the enclosing class.
